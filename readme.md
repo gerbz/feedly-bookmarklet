@@ -1,11 +1,11 @@
 # A Feedly Subscription Bookmarklet That Ignores Comment Feeds
 
-	I got sick of the Feedly bookmarklet subscribing me to blog comment feeds, so this one ignores them.
+I got sick of the Feedly bookmarklet subscribing me to blog comment feeds, so this one ignores them.
 
-<p align="center">
-  <a href="http://gerbz.github.io/feedly-bookmarklet">Go Here To Install It</a>
-</p>
+### [Install It Here](http://gerbz.github.io/feedly-bookmarklet)
+
+<br>
 
 ---
-developed by [@gerbz](http://twitter.com/gerbz)
-based on [this version](http://lucileblogs.com/blog/how-to-install-feedly-bookmarklet/) by [@TweetsOfL](https://twitter.com/TweetsOfL)
+created by [@gerbz](http://twitter.com/gerbz)
+based on [this](http://lucileblogs.com/blog/how-to-install-feedly-bookmarklet/) by [@TweetsOfL](https://twitter.com/TweetsOfL)
